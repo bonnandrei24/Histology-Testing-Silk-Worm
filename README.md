@@ -12,3 +12,5 @@ Noise Reduction: Implements morphological "opening" operations to remove single-
 
 Technical StackLanguage: 
 PythonLibraries: OpenCV (Image processing), NumPy (Mathematical calculations), Matplotlib (Visualization), PIL (Image handling).
+
+Author: Bonn Andrei M. Buenaventura
