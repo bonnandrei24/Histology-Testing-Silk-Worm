@@ -1,5 +1,7 @@
 # Histology-Testing-Silk-Worm
-Oil Red O Fat Quantification ToolCore Functionality 
+Oil Red O Fat Quantification Tool 
+
+Core Functionality 
 
 This Python-based image analysis tool uses OpenCV and the HSV (Hue, Saturation, Value) color space to detect and measure fat bodies in silkworm samples. It is specifically tuned to differentiate between vibrant Oil Red O stains (fat) and the natural tan or brownish-yellow background of the silkworm cuticle and internal tissues.
 
